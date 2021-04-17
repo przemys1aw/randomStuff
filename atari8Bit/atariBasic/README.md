@@ -5,6 +5,6 @@ Atari Basic
 
 Notes
 -----
-Yes, I typed the sample and run it on the real hardware. 
+Yes, I typed the sample and ran it on the real hardware. 
  
 ![fizzbuzz](fizzbuzz.gif)
